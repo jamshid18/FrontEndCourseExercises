@@ -12,6 +12,9 @@ body{
     text-align: center;
     font-size: 20px;
 }
+#first-image{
+    float: left;
+}
 .second-section{
     /* background-color: rgb(207, 238, 247); */
     border: 2px solid green;
