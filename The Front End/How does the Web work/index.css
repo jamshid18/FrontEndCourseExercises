@@ -1,0 +1,39 @@
+
+*{
+    text-align: center;
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: rgb(171, 204, 52);
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+    list-style-type: none;
+}
+.first-three-lis{
+    float: left;
+}
+.third-three-lis{
+    float: right;
+}
+
+img{
+    width: 600px;
+    height: 400px;
+    border-radius: 20px;
+    box-shadow: 10px 20px 10px 5px
+}
+
+#html-pic{
+    box-shadow: 2px 2px 20px 2px;
+}
+
+p{
+    font-size: 20px;
+}
+
