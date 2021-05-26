@@ -1,0 +1,49 @@
+
+ body{
+    background-color: rgb(255, 255, 255);
+ }
+ul{
+    background-color: rgb(84, 200, 204);
+}
+li{
+    display: inline;
+    padding: 12px;
+}
+input{
+    outline: none;
+}
+.span{
+    display: flex;
+}
+
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 200px;
+}
+.search{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 30px;
+    border-radius: 20px;
+    border: 2px solid blueviolet;
+}
+footer{
+    background-color: rgb(84, 200, 204);
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+}
+.Greece{
+    font-size: 20px;
+}
+.footer-options{
+   display: flex;
+   justify-content: space-evenly;
+}
+
+
